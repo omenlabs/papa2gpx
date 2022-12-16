@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="36.3057891" lon="-120.4032427">
+    <name>PAPA 32</name>
+    <cmt>Joaquin Ridge
+442.600+
+Encode PL: 156.7
+Optional Decode PL: 100.0</cmt>
+    <desc>Joaquin Ridge
+442.600+
+Encode PL: 156.7
+Optional Decode PL: 100.0</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="34.52777284666153" lon="-119.97722625732422">
+    <name>PAPA 6</name>
+    <cmt>Santa Ynez Peak
+446.760-
+Encode PL: 156.7
+Optional Decode PL: 100.0</cmt>
+    <desc>Santa Ynez Peak
+446.760-
+Encode PL: 156.7
+Optional Decode PL: 100.0</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="35.48151233884561" lon="-117.69162634069335">
+    <name>PAPA 19</name>
+    <cmt>El Paso Peak
+448.880-
+Encode PL: 100.0
+Optional Decode PL: 100.0</cmt>
+    <desc>El Paso Peak
+448.880-
+Encode PL: 100.0
+Optional Decode PL: 100.0</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="34.32672156250894" lon="-119.02736374790084">
+    <name>PAPA 30</name>
+    <cmt>South Mountain
+446.360-
+Encode PL: 156.7
+Optional Decode PL: 100.0</cmt>
+    <desc>South Mountain
+446.360-
+Encode PL: 156.7
+Optional Decode PL: 100.0</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="34.184213176888406" lon="-118.84011587935613">
+    <name>PAPA 26</name>
+    <cmt>Thousand Oaks
+PAPA 25
+224.700-
+
+PAPA 26
+446.340-
+
+Encode PL: 156.7
+Optional Decode PL: 100.0</cmt>
+    <desc>Thousand Oaks
+PAPA 25
+224.700-
+
+PAPA 26
+446.340-
+
+Encode PL: 156.7
+Optional Decode PL: 100.0</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="34.32996095752817" lon="-118.59639963942693">
+    <name>PAPA 1/2</name>
+    <cmt>Oat Mountain
+PAPA 1
+446.580-
+Encode PL: 127.3
+Optional Decode PL: 100.0
+
+PAPA 2
+224.400-
+Encode PL: 127.3
+Optional Decode PL: 141.3</cmt>
+    <desc>Oat Mountain
+PAPA 1
+446.580-
+Encode PL: 127.3
+Optional Decode PL: 100.0
+
+PAPA 2
+224.400-
+Encode PL: 127.3
+Optional Decode PL: 141.3</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="34.07723949761886" lon="-118.6569752806918">
+    <name>PAPA 4</name>
+    <cmt>Saddle Peak
+445.420-
+Encode PL: 127.3
+Optional Decode PL: 141.3</cmt>
+    <desc>Saddle Peak
+445.420-
+Encode PL: 127.3
+Optional Decode PL: 141.3</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="33.71324595334772" lon="-117.53237884892985">
+    <name>PAPA 3</name>
+    <cmt>Santiago Peak
+446.760-
+Encode DPL: 073
+Optional Decode DPL: 073</cmt>
+    <desc>Santiago Peak
+446.760-
+Encode DPL: 073
+Optional Decode DPL: 073</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="33.7987387915766" lon="-117.62048745267799">
+    <name>PAPA 22</name>
+    <cmt>Pleasants Peak
+446.320-
+Encode PL : 127.3
+Optional Decode PL: 141.3</cmt>
+    <desc>Pleasants Peak
+446.320-
+Encode PL : 127.3
+Optional Decode PL: 141.3</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="33.60576607888809" lon="-117.81223321073463">
+    <name>PAPA 5</name>
+    <cmt>Signal Peak
+449.280-
+Encode PL: 127.3
+Optional Decode PL: 127.3</cmt>
+    <desc>Signal Peak
+449.280-
+Encode PL: 127.3
+Optional Decode PL: 127.3</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="33.52549980294654" lon="-116.42560660753017">
+    <name>PAPA 7/27</name>
+    <cmt>Toro Peak
+PAPA 7
+447.840-
+Encode PL: 103.5
+Optional Decode PL: 114.8
+
+PAPA 27
+224.180-
+Encode PL:127.3
+Optional Decode PL: 114.8
+</cmt>
+    <desc>Toro Peak
+PAPA 7
+447.840-
+Encode PL: 103.5
+Optional Decode PL: 114.8
+
+PAPA 27
+224.180-
+Encode PL:127.3
+Optional Decode PL: 114.8
+</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="34.22553404425974" lon="-118.06384037143803">
+    <name>PAPA 8w</name>
+    <cmt>Mt Wilson
+445.140-
+Encode PL: 136.5
+Optional Decode PL: 141.3</cmt>
+    <desc>Mt Wilson
+445.140-
+Encode PL: 136.5
+Optional Decode PL: 141.3</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="34.21609485282605" lon="-118.28069160587407">
+    <name>PAPA 8v</name>
+    <cmt>Verdugo Peak
+445.140-
+Encode PL: 136.5
+Optional Decode PL: 141.3
+Mt Wilson remote receiver</cmt>
+    <desc>Verdugo Peak
+445.140-
+Encode PL: 136.5
+Optional Decode PL: 141.3
+Mt Wilson remote receiver</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="33.21380790214753" lon="-117.18633136171607">
+    <name>PAPA 9</name>
+    <cmt>San Marcos
+446.720-
+Encode PL: 103.5
+Optional Decode PL: 114.8</cmt>
+    <desc>San Marcos
+446.720-
+Encode PL: 103.5
+Optional Decode PL: 114.8</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="33.36502573818296" lon="-116.83478290083875">
+    <name>PAPA 10</name>
+    <cmt>Palomar Mountain
+448.540-
+Encode PL: 103.5
+Optional Decode PL: 114.8</cmt>
+    <desc>Palomar Mountain
+448.540-
+Encode PL: 103.5
+Optional Decode PL: 114.8</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="32.59821450617558" lon="-116.84422427657117">
+    <name>PAPA 11/12</name>
+    <cmt>Otay Mountain
+PAPA 11
+447.560-
+
+PAPA 12
+224.400-
+
+Encode PL: 103.5
+Optional Decode PL: 114.8
+
+</cmt>
+    <desc>Otay Mountain
+PAPA 11
+447.560-
+
+PAPA 12
+224.400-
+
+Encode PL: 103.5
+Optional Decode PL: 114.8
+
+</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="33.868458150372646" lon="-116.43369136134923">
+    <name>PAPA 18</name>
+    <cmt>Edom Hill
+445.860-
+Encode PL: 103.5
+Optional Decode PL: 114.8</cmt>
+    <desc>Edom Hill
+445.860-
+Encode PL: 103.5
+Optional Decode PL: 114.8</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="33.8082877285847" lon="-116.92777571956456">
+    <name>PAPA 31</name>
+    <cmt>Daniel Peak
+445.260-
+Encode PL: 103.5
+Optional Decode PL: 114.8</cmt>
+    <desc>Daniel Peak
+445.260-
+Encode PL: 103.5
+Optional Decode PL: 114.8</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="33.603404010113834" lon="-117.34269258194601">
+    <name>PAPA 24</name>
+    <cmt>Elsinore Peak
+446.700-
+Encode PL: 103.5
+Optional Decode PL: 114.8</cmt>
+    <desc>Elsinore Peak
+446.700-
+Encode PL: 103.5
+Optional Decode PL: 114.8</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="34.216783061196146" lon="-117.69166176863216">
+    <name>PAPA 13</name>
+    <cmt>Sunset Peak
+224.200-
+Encode PL: 127.3
+Optional Decode PL: 141.3</cmt>
+    <desc>Sunset Peak
+224.200-
+Encode PL: 127.3
+Optional Decode PL: 141.3</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="34.35731888968723" lon="-117.67545195146907">
+    <name>PAPA 14</name>
+    <cmt>Blue Ridge
+446.58-
+Encode PL: 123.0
+Optional Decode PL: 141.3</cmt>
+    <desc>Blue Ridge
+446.58-
+Encode PL: 123.0
+Optional Decode PL: 141.3</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="35.95493679046616" lon="-115.4938075117718">
+    <name>PAPA 29</name>
+    <cmt>Lo Potosi
+448.400-
+Encode PL: 127.3
+Optional Decode PL: 141.3</cmt>
+    <desc>Lo Potosi
+448.400-
+Encode PL: 127.3
+Optional Decode PL: 141.3</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="34.81654542087036" lon="-114.65309591814388">
+    <name>PAPA 28</name>
+    <cmt>Needles
+447.000-
+Encode PL: 88.5
+Optional Decode PL: 88.5</cmt>
+    <desc>Needles
+447.000-
+Encode PL: 88.5
+Optional Decode PL: 88.5</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="34.01506185667785" lon="-117.13952513262142">
+    <name>PAPA 20/21</name>
+    <cmt>Redlands
+PAPA 20
+447.000-
+Encode PL: 123.0
+Optional Decode PL: 123.0
+
+PAPA 21
+145.260-
+Encode PL: 127.3
+Optional Decode PL: 141.3</cmt>
+    <desc>Redlands
+PAPA 20
+447.000-
+Encode PL: 123.0
+Optional Decode PL: 123.0
+
+PAPA 21
+145.260-
+Encode PL: 127.3
+Optional Decode PL: 141.3</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="33.74944624509869" lon="-118.378429260945">
+    <name>PAPA 23</name>
+    <cmt>Rancho Palos Verdes
+446.700-
+Encode PL: 127.3
+Optional Decode PL: 141.3</cmt>
+    <desc>Rancho Palos Verdes
+446.700-
+Encode PL: 127.3
+Optional Decode PL: 141.3</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+  <wpt lat="33.00920741935942" lon="-116.97027093083403">
+    <name>PAPA 15</name>
+    <cmt>Mount Woodson
+446.360-
+Encode PL: 103.5
+Optional Decode PL: 114.8</cmt>
+    <desc>Mount Woodson
+446.360-
+Encode PL: 103.5
+Optional Decode PL: 114.8</desc>
+    <sym>Tall Tower</sym>
+    <type>Repeater Site</type>
+  </wpt>
+</gpx>
